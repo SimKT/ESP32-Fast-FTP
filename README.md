@@ -1,7 +1,7 @@
 # ESP32-Fast-FTP
 <br>
 Fast FTP server for ESP32 based boards using SD cards as data storage. <br>
-Uses specialised code to achieve the fastest transfer rates using SPI or MMC interfaces (700 KB/s +). <br><br>
+Uses native ESP32 framework code to achieve the fastest transfer rates using SPI or MMC interfaces (700 KB/s +). <br><br>
 Useful as a fast and cheap file, live audio and video server. Supports only one connection, but idle connections stay connected if no other clients are accesing.<br>
 Supported prob by all major browsers like Chrome, Firefox and Edge, also Windows programs like TotalCommander and FileZilla, probably many more.<br>
 KODI and VLC live video and audio support.<br>
